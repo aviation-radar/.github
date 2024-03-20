@@ -1,4 +1,4 @@
-# ✈️ Radar app
+# ✈️ Radar WX
 
 Wellcome to the radar app space 🚀  
 
