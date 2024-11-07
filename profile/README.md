@@ -1,3 +1,4 @@
+[<img src="resources/img/appstore-badge.png" height="50">]((https://apps.apple.com/at/app/radar-wx/id6479675783))
 # ✈️ Radar app
 
 Wellcome to the radar app space 🚀  
