@@ -18,6 +18,8 @@ This is an app from the aviator for the aviators.
 
 ### 💻 Platforms
 
+[<img src="resources/img/appstore-badge.png" height="50">]((https://apps.apple.com/at/app/radar-wx/id6479675783))
+
 - Apple
   - [x] iOS
   - [x] iPadOS
